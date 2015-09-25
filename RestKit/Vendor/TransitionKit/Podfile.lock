@@ -1,0 +1,17 @@
+PODS:
+  - Kiwi (2.3.0)
+  - TransitionKit (2.1.1)
+
+DEPENDENCIES:
+  - Kiwi (~> 2.3.0)
+  - TransitionKit (from `.`)
+
+EXTERNAL SOURCES:
+  TransitionKit:
+    :path: .
+
+SPEC CHECKSUMS:
+  Kiwi: 54bece5b35564d9b8e03c608d926f1a22fcfc589
+  TransitionKit: 157c582bf47134afe9ef0dc747d1f0f74008f7e5
+
+COCOAPODS: 0.34.1
